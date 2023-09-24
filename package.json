@@ -7,7 +7,7 @@
     "start:dev": "",
     "start": "",
     "server": "",
-    "build": "webpack --mode development --config webpack/webpack.config.js",
+    "build": "cd client && npm run build",
     "install": "",
     "client": ""
   },
