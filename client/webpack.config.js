@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html', // Add your HTML template file path
-        chunks: ['main'],
+        title: 'J.A.T.E',
       }),
       new WebpackPwaManifest({
         name: 'Text Editor PWA',
