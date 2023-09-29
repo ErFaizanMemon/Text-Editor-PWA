@@ -46,6 +46,6 @@ THEN I should have proper build scripts for a webpack application
 
 ## Deployment 
 
-Heroku Webpage Link -
+Heroku Webpage Link - https://still-hamlet-50383-0a6cb0b80a34.herokuapp.com/
 
-Github Repo Link - 
+Github Repo Link - https://github.com/ErFaizanMemon/Text-Editor-PWA
